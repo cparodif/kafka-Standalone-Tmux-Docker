@@ -1,10 +1,6 @@
 # kafka-Standalone-Tmux-Docker
 Probar Apache Kafka Standalone, utilizando ventanas Tmux, y Docker 
 
-
-# kafka-Standalone-Docker-Tmux
-Probar Apache Kafka Standalone utilizando Docker y tmux.
-
 ## 1. Instala y empieza a utilizar kafka-Standalone-Docker-Tmux
 
 Cambia a tu carpeta de Descargas (por ejemplo), y clona https://github.com/cparodif/kafka-Standalone-Docker-Tmux.git
